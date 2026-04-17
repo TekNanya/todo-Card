@@ -154,11 +154,10 @@ Responsive behavior:
 ---
 
 ## 📂 Project Structure
-
-/index.html
-/style.css
-/script.js
-/README.md
+│── index.html
+│── README.md
+│── script.js
+│── style.css
 
 ## 📌 Submission Notes
 
